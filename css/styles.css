@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Merriweather Sans',sans-serif;
+}
+h1{
+    padding-top: 60px;
+    font-family: 'Merriweather', serif;
+    color: black;
+}
+#title-caption{
+    font-family: 'Merriweather'
+}
+hr{
+    width: 80%;
+    align-content: center;
+}
